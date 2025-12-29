@@ -1,0 +1,829 @@
+{
+  "id": "remote-cpu-4x4-deck-1",
+  "name": "CPU Remote 4×4 Deck #1",
+  "boards": [
+    {
+      "id": "4x4-easy-1",
+      "name": "4x4 Easy #1",
+      "boardSize": 4,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408810000
+    },
+    {
+      "id": "4x4-easy-2",
+      "name": "4x4 Easy #2",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408811000
+    },
+    {
+      "id": "4x4-easy-3",
+      "name": "4x4 Easy #3",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 3
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408812000
+    },
+    {
+      "id": "4x4-medium-1",
+      "name": "4x4 Medium #1",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "trap"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 3
+          },
+          "type": "trap",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 6
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408813000
+    },
+    {
+      "id": "4x4-medium-2",
+      "name": "4x4 Medium #2",
+      "boardSize": 4,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "trap",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "trap",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 6
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408814000
+    },
+    {
+      "id": "4x4-medium-3",
+      "name": "4x4 Medium #3",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "trap",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 6
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408815000
+    },
+    {
+      "id": "4x4-hard-2",
+      "name": "4x4 Hard #2",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "trap",
+          "piece",
+          "trap",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "trap",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 7
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408817000
+    },
+    {
+      "id": "4x4-hard-1",
+      "name": "4x4 Hard #1",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "trap",
+          "piece",
+          "empty"
+        ],
+        [
+          "trap",
+          "piece",
+          "piece",
+          "trap"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 3
+          },
+          "type": "trap",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408816000
+    },
+    {
+      "id": "4x4-easy-1",
+      "name": "4x4 Easy #1",
+      "boardSize": 4,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408810000
+    },
+    {
+      "id": "4x4-easy-2",
+      "name": "4x4 Easy #2",
+      "boardSize": 4,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408811000
+    }
+  ],
+  "createdAt": 1767031538435
+}

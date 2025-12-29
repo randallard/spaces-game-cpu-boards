@@ -1,0 +1,1677 @@
+{
+  "id": "remote-cpu-8x8-deck-1",
+  "name": "CPU Remote 8×8 Deck #1",
+  "boards": [
+    {
+      "id": "8x8-easy-1",
+      "name": "8x8 Easy #1",
+      "boardSize": 8,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408860000
+    },
+    {
+      "id": "8x8-easy-2",
+      "name": "8x8 Easy #2",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408861000
+    },
+    {
+      "id": "8x8-easy-3",
+      "name": "8x8 Easy #3",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 5
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 5
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408862000
+    },
+    {
+      "id": "8x8-easy-4",
+      "name": "8x8 Easy #4",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 7
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 7
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408863000
+    },
+    {
+      "id": "8x8-easy-5",
+      "name": "8x8 Easy #5",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 3
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 3
+          },
+          "type": "final",
+          "order": 9
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408864000
+    },
+    {
+      "id": "8x8-medium-1",
+      "name": "8x8 Medium #1",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "trap",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 3
+          },
+          "type": "trap",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 4
+          },
+          "type": "piece",
+          "order": 9
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 4
+          },
+          "type": "final",
+          "order": 10
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408865000
+    },
+    {
+      "id": "8x8-medium-2",
+      "name": "8x8 Medium #2",
+      "boardSize": 8,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "trap",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "trap",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 9
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 10
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408866000
+    },
+    {
+      "id": "8x8-medium-3",
+      "name": "8x8 Medium #3",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "trap",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 9
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 10
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408867000
+    },
+    {
+      "id": "8x8-medium-4",
+      "name": "8x8 Medium #4",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "trap",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 3
+          },
+          "type": "trap",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 9
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 10
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408868000
+    },
+    {
+      "id": "8x8-medium-5",
+      "name": "8x8 Medium #5",
+      "boardSize": 8,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "trap",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "empty",
+          "piece",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 7,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 6,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 5,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 4,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 3,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 7
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 5
+          },
+          "type": "trap",
+          "order": 8
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 6
+          },
+          "type": "piece",
+          "order": 9
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 6
+          },
+          "type": "final",
+          "order": 10
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408869000
+    }
+  ],
+  "createdAt": 1767031538436
+}

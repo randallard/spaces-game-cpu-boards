@@ -1,0 +1,659 @@
+{
+  "id": "remote-cpu-3x3-deck-1",
+  "name": "CPU Remote 3×3 Deck #1",
+  "boards": [
+    {
+      "id": "3x3-easy-1",
+      "name": "3x3 Easy #1",
+      "boardSize": 3,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 4
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408800000
+    },
+    {
+      "id": "3x3-easy-2",
+      "name": "3x3 Easy #2",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 4
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408801000
+    },
+    {
+      "id": "3x3-medium-1",
+      "name": "3x3 Medium #1",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "trap"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408802000
+    },
+    {
+      "id": "3x3-medium-2",
+      "name": "3x3 Medium #2",
+      "boardSize": 3,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "trap",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408803000
+    },
+    {
+      "id": "3x3-hard-1",
+      "name": "3x3 Hard #1",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "trap",
+          "piece",
+          "trap"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "trap",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 6
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408804000
+    },
+    {
+      "id": "3x3-hard-2",
+      "name": "3x3 Hard #2",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "piece",
+          "piece"
+        ],
+        [
+          "trap",
+          "piece",
+          "trap"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "trap",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 5
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 6
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 7
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408805000
+    },
+    {
+      "id": "3x3-easy-1",
+      "name": "3x3 Easy #1",
+      "boardSize": 3,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 4
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408800000
+    },
+    {
+      "id": "3x3-easy-2",
+      "name": "3x3 Easy #2",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece"
+        ],
+        [
+          "empty",
+          "empty",
+          "piece"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 2
+          },
+          "type": "piece",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 2
+          },
+          "type": "final",
+          "order": 4
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408801000
+    },
+    {
+      "id": "3x3-medium-1",
+      "name": "3x3 Medium #1",
+      "boardSize": 3,
+      "grid": [
+        [
+          "empty",
+          "piece",
+          "empty"
+        ],
+        [
+          "empty",
+          "piece",
+          "trap"
+        ],
+        [
+          "empty",
+          "piece",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 1
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 1
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408802000
+    },
+    {
+      "id": "3x3-medium-2",
+      "name": "3x3 Medium #2",
+      "boardSize": 3,
+      "grid": [
+        [
+          "piece",
+          "empty",
+          "empty"
+        ],
+        [
+          "piece",
+          "trap",
+          "empty"
+        ],
+        [
+          "piece",
+          "empty",
+          "empty"
+        ]
+      ],
+      "sequence": [
+        {
+          "position": {
+            "row": 2,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 1
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 2
+        },
+        {
+          "position": {
+            "row": 1,
+            "col": 1
+          },
+          "type": "trap",
+          "order": 3
+        },
+        {
+          "position": {
+            "row": 0,
+            "col": 0
+          },
+          "type": "piece",
+          "order": 4
+        },
+        {
+          "position": {
+            "row": -1,
+            "col": 0
+          },
+          "type": "final",
+          "order": 5
+        }
+      ],
+      "thumbnail": "",
+      "createdAt": 1735408803000
+    }
+  ],
+  "createdAt": 1767031538435
+}
